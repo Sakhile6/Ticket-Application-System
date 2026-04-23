@@ -6,10 +6,10 @@
 ## Group Members
 | Name | Student Number | Role |
 |------|---------------|------|
-| [Name 1] | [Number] | Project Manager / GitHub Coordinator |
-| [Name 2] | [Number] | UI Developer |
-| [Name 3] | [Number] | Logic Developer |
-| [Name 4] | [Number] | Tester & Documentation Specialist |
+| Tshiamo | 1 | Project Manager / GitHub Coordinator |
+| Juan | 2 | UI Developer |
+| Wandile | 3 | Logic Developer |
+| Thabang & Gundo | 4 & 5 | Tester & Documentation Specialist |
 
 ## Project Description
 A C# Windows Forms application that calculates ticket prices
@@ -28,7 +28,7 @@ based on passenger details, travel category, and distance.
 3. Run the application
 
 ## GitHub Branches
-- Dev-project-management-[Name]
-- Dev-ui-design-[Name]
-- Dev-logic-module-[Name]
-- Dev-testing-docs-[Name]
+- Dev-project-management- Tshiamo
+- Dev-ui-design- Juan
+- Dev-logic-module- Wandile
+- Dev-testing-docs- Thabang & Gundo
